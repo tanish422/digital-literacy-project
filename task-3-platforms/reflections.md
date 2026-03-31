@@ -4,7 +4,7 @@ I completed this task by utilizing **HackerRank** for technical practice and **G
 
 # Key Learnings
 
-- Solving the Python challenge helped me understand the logic required for **automation**, which is central to my Cloud Computing branch.
+- Solving the Python challenge helped me understand the logic required for **automation**, which is central to my branch.
 
 - Creating the Digital Literacy Quiz taught me how to use **cloud-based tools** to gather and analyze data from a large group.
 
