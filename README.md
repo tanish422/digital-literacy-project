@@ -2,9 +2,9 @@
 ## VIT Bhopal University | Student Digital Ambassador Portfolio
 
 ### Student Information
-* **Name:** Bhavya Kushwaha
-* **Registration Number:** 25BSA10157
-* **Branch:** B.Tech CSE (Cloud Computing and Automation)
+* **Name:** Tanish Bhatia
+* **Registration Number:** 25BMR10009
+* **Branch:** B.Tech ME (AIand Robotics)
 * **Year:** First Year B.Tech (2025-26)
 
 ---
@@ -50,4 +50,4 @@ As a Student Digital Ambassador, I have developed this Digital Literacy Portfoli
 
 
 ### Google Forms Link 🔗
-- https://docs.google.com/forms/d/e/1FAIpQLScTtYDJmu7R39T_AoSh6hXnZYD6X1cozBQt7eBzVIrXf9_gKA/viewform?usp=publish-editor
+- https://docs.google.com/forms/d/e/1FAIpQLSd3MhrTIwetGyuXOGsuoKvq-uNhHoImqXiY-HPCH3OsF3CEHw/viewform?usp=header
